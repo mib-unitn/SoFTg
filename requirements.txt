@@ -1,0 +1,12 @@
+torch
+torchvision
+lightning
+numpy
+scipy
+scikit-image
+astropy
+opencv-python-headless
+matplotlib
+tqdm
+PyQt5
+soft
